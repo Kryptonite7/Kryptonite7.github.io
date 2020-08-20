@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://kryptonite7.github.io/sitemap.xml
